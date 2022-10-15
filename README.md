@@ -5,6 +5,13 @@
 </p>
 
 
-Simples calculadora em projeto inicial de teste para calculo da média de 4 valores à serem inseridos.
+## Projeto de teste - Calculadora de média
+
+- Inserção de 4 valores numéricos;
+- Calculo da média dos 4 valores;
+- Apresentação em tela dos valores.
+  
+
+### Utilizada Classe: JOptionPane.
 
 
